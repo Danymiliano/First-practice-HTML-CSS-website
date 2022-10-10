@@ -11,5 +11,5 @@ What knowledge did I gain from this project?
 + How to work with the block and inline system using CSS
 + Flexboxes
 + All the basic CSS functions, including pseudo-classes, pseudo-elements, how to apply effects to the entire page etc.
-+ Semantic tags, the differences between them and divs and spans
++ Semantic tags, the differences between them and divs/spans
 + A little about adaptive layout
